@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name" translatable="false">Wisata Kebumen</string>
+    <string name="places_name" translatable="false">Nama Tempat</string>
+    <string name="detail" translatable="false">Detail</string>
+    <string name="about" translatable="false">Tentang Saya</string>
+    <string name="favorite" translatable="false">Favorite</string>
+    <string name="share" translatable="false">Share</string>
+    <string name="lokasi" translatable="false">lokasi</string>
+    <string name="profile" translatable="false">Profile</string>
+    <string name="dev_name" translatable="false">Nurhadi</string>
+    <string name="job" translatable="false">SAP PP Consultant &amp; Web Developer </string>
+    <string name="verified" translatable="false">Verified User</string>
+    <string name="ratings" translatable="false">Stars Rating</string>
+    <string name="experience" translatable="false">Pengalaman</string>
+    <string name="user_info" translatable="false">Data Diri</string>
+    <string name="about_me" translatable="false">Tentang Saya</string>
+    <string name="my_desc" translatable="false"><![CDATA[Saya adalah SAP Functional PP & Seorang Web Developer]]></string>
+    <string name="contact_me" translatable="false">Hubungi Saya</string>
+    <string name="email" translatable="false">nurhadinubi@gmail.com</string>
+    <string name="skills" translatable="false">Kemampuan</string>
+    <string name="skill_sap">SAP PP Module</string>
+    <string name="skill_office"><![CDATA[Ms Office & Open Office]]></string>
+    <string name="skill_pwa">Progressive Web App Developer</string>
+    <string name="experience_sap">SAP PP Functional</string>
+    <string name="skill_sap_detail"><![CDATA[Customize & maintain PP Module)]]></string>
+    <string name="experience_cost_detail">Kontrol biaya Produksi Produk</string>
+    <string name="experience_cost_period">Feb 2016 - Jan 2020</string>
+    <string name="experience_admin">Warehouse Admin</string>
+    <string name="experience_admin_detail">Administrasi Gudang Finish Good</string>
+    <string name="experience_admin_period">Jan 2014 - Jan 2016</string>
+    <string name="credit">Credit</string>
+    <string name="link_explore_kebumen"><![CDATA[Instagram : <a href=\"https://www.instagram.com/explore_kebumen\">@explore_kebumen</a>]]></string>
+    <string name="credit_title">Submission Membuat Aplikasi Android Pemula</string>
+    <string name="class_detail">Aplikasi ini dibuat sebagai syarat kelulusan kelas Belajar Membuat Aplikasi Android Pemula.</string>
+    <string name="telephone">+62 852xxxxxxx</string>
+</resources>
